@@ -1,0 +1,20 @@
+[
+  {
+    "id": -1560583067728290133,
+    "title": "StringProperty [bean: tornadofx.ViewModel@76051c2, value: TEST 20]",
+    "ingredients": "StringProperty [bean: tornadofx.ViewModel@76051c2, value: TEST ING 20]",
+    "description": "StringProperty [bean: tornadofx.ViewModel@76051c2, value: TEST DESC 20]"
+  },
+  {
+    "id": 6862520913936791997,
+    "title": "StringProperty [bean: tornadofx.ViewModel@1496e063, value: TEST20]",
+    "ingredients": "StringProperty [bean: tornadofx.ViewModel@1496e063, value: TEST ING 20]",
+    "description": "StringProperty [bean: tornadofx.ViewModel@1496e063, value: TEST DESC 20]"
+  },
+  {
+    "id": 3128939763080693786,
+    "title": "StringProperty [bean: tornadofx.ViewModel@7f988106, value: TEST30]",
+    "ingredients": "StringProperty [bean: tornadofx.ViewModel@7f988106, value: TEST ING30]",
+    "description": "StringProperty [bean: tornadofx.ViewModel@7f988106, value: TEST DESC30]"
+  }
+]
